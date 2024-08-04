@@ -416,6 +416,7 @@ To github.com:ifireiceya/MyFirstRepo.git
 Репозиторий хранится в `ifireice/git` , а изменения у нас делает пользователь `ifireiceya`
 
 
+
 #TODO
 Дописать 
 - squash - схлапывание коммитов в один 
